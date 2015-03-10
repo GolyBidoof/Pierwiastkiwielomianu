@@ -1,0 +1,2 @@
+# Pierwiastkiwielomianu
+Pierwiastki. Wielomianu.
